@@ -1,0 +1,7 @@
+1. Encapsulation combines data and code into a single object.
+2. To prevent modifying the objects data state in unintentional ways.
+3. To use the house analogy, the class is the blueprint and the instance of a class is a house. You can build multiple instances of a house using the same blueprint.
+4. The name of the method is .getdollar(). The name of the variable that references the object is wallet.
+5. The self parameter references the object created.
+6. By making it private e.g. prefixing the data attribute with __.
+7. You don't directly call the __str__ method. It's called indirectly when the print method gets called with the object instance as an argument.
